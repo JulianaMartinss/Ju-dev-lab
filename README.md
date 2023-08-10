@@ -17,6 +17,8 @@
 </div>
 
   ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-dev-lab&theme=buefy&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&theme=buefy&show_icons=true)
+  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&theme=buefy&show_icons=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&theme=buefy&show_icons=true"
+</div>
