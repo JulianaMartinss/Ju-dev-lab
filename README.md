@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=DE157C&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;+My+name+is+Juliana;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=DE157C&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;+I´m+Juliana+:);" />
 </h1>
 
 - 🌱 I’m currently learning **React Native**
