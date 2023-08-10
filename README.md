@@ -21,6 +21,6 @@
   ##
  
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&show_icons=true&alt="ju-dev-lab" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&show_icons=true&locale=en" alt="ju-dev-lab" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&theme=buefy" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&theme=buefy" /></p>
 </div>
