@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Juliana!👋</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ju-dev-lab&label=Profile%20views&color=0e75b6&style=flat" alt="ju-dev-lab" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B666D2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Juliana!;I'm+27+years+old;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
+##
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -19,8 +18,6 @@
 </div>
 
   ##
- 
-<div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&theme=buefy" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&theme=buefy" /></p>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-dev-lab&theme=buefy&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&theme=buefy&show_icons=true)
