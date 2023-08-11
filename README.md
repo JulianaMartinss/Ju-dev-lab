@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=DE157C&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;+I´m+Juliana+:);" />
 </h1>
 
+  <img align="right" src="https://ouch-cdn2.icons8.com/6ukuZH86kWgEfthgg5J8EDjV8rCohWeE9iBlUiiKMFw/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjI1/LzNhMmVhYzNiLWFi/YWYtNGI5ZS1hOTc0/LTUzZWUzYTA0MDZk/My5wbmc.png">
+  
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me: **julianaalvesmartins1@gmail.com**
