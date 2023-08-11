@@ -20,9 +20,5 @@
 
   ##
   
-<p align="center">
-  <a href="https://github.com/ju-dev-lab">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-dev-lab&layout=compact&theme=buefy" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&show_icons=true&locale=en&layout=compact&theme=buefy" alt="ju-dev-lab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="ju-dev-lab" /></p>
