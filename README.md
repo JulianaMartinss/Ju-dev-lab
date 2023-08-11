@@ -1,9 +1,13 @@
-<h1 align="center">
+<div align='center'>
+<h1 align='center'>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&color=DE157C&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;+I´m+Juliana+:);" />
 </h1>
+</div>
 
+<h5 align="center">
   <img align="right" src="https://ouch-cdn2.icons8.com/6ukuZH86kWgEfthgg5J8EDjV8rCohWeE9iBlUiiKMFw/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjI1/LzNhMmVhYzNiLWFi/YWYtNGI5ZS1hOTc0/LTUzZWUzYTA0MDZk/My5wbmc.png" height="200" width="200" align="right" alt="Computador">
-  
+</h5>
+
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me: **julianaalvesmartins1@gmail.com**
@@ -22,7 +26,7 @@
   
 <p align="center">
   <a href="https://github.com/ju-dev-lab">
-   <img height="170em" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-dev-lab&layout=compact&theme=buefy" />
+    <img height="170em" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
+    <img height="170em" width="42%"align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-dev-lab&layout=compact&theme=buefy" />
   </a>
 </p>
