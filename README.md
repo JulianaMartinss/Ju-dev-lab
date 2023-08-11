@@ -22,7 +22,7 @@
   
 <p align="center">
   <a href="https://github.com/ju-dev-lab">
-    <img height="170em" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-    <img height="170em" width="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-dev-lab&layout=compact&theme=buefy" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ju-dev-lab&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-dev-lab&layout=compact&theme=buefy" />
   </a>
 </p>
