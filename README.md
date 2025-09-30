@@ -12,9 +12,9 @@ I'm Juliana, and I'm currently studying Software Development. I've been focusing
 I'm at the beginning of my journey in tech, always curious and motivated to learn new tools, improve my skills, and bring ideas to life through real projects. This is where I share what I’m learning, building, and exploring as I grow into a full-stack developer.
 
 <div>
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ju-dev-lab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>    
-  <a href="https://github.com/Ju-dev-lab?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ju-dev-lab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>     
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JulianaMartinss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>    
+  <a href="https://github.com/JulianaMartinss?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JulianaMartinss?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>     
   <a href="https://www.linkedin.com/in/julianamartinsdev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
@@ -33,6 +33,6 @@ I'm at the beginning of my journey in tech, always curious and motivated to lear
 ##
 
 <div>
-  <a href="https://github.com/ju-dev-lab">
-  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ju-dev-lab&show_icons=true&locale=en&layout=compact&theme=bear" alt="ju-dev-lab"/></p>
+  <a href="https://github.com/JulianaMartinss">
+  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaMartinss&show_icons=true&locale=en&layout=compact&theme=bear" alt="JulianaMartinss"/></p>
 </div>
